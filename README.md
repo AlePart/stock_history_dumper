@@ -38,6 +38,7 @@ Before using this tool, make sure you have the following installed:
 
 ### Usage
 
-To use the tool, run the following command:
-
-python3 main.py ENWD.MI 1990-1-1 2023-1-1
+To use the tool, run the following example:
+    ```bash
+    python3 main.py ENWD.MI 1990-1-1 2023-1-1
+    ```
