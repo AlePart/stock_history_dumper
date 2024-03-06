@@ -7,7 +7,8 @@ import price_manager as pm
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Usage: python main.py <stock> <start_date> <end_date>")
+        print("Usage: python3 main.py <stock> <start_date> <end_date>")
+        print("Example: python3 main.py ENWD.MI 1990-01-01 2021-01-01")
         
         sys.exit(1)
 
